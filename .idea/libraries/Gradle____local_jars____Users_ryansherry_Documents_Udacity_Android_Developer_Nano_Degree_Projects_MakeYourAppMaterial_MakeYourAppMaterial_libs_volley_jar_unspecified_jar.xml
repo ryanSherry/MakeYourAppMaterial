@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/ryansherry/Documents/Udacity Android Developer Nano Degree/Projects/MakeYourAppMaterial/MakeYourAppMaterial/libs/volley.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MakeYourAppMaterial/libs/volley.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
